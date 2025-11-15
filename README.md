@@ -1,7 +1,7 @@
 
   # Music Preference Visualization 
 Demo Link:  
-https://net-glade-62803777.figma.site
+https://vibe-link-002.figma.site/
 
 1. Visualize music tastes as a network graph based on APIs from Spotify, YouTube Music, and Apple Music
 2. Create a 'Blend Playlist' even between users who use different apps.
